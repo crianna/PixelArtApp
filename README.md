@@ -8,7 +8,7 @@ I use the following technologies / frameworks in my project:
 
 - JavaScript / jQuery
 - HTML5/CSS3
-- Bootrstrap 
+- Bootstrap 
 
 I chose jQuery because the app implementation is not very complicated and it's not neccesary to use a js library or framework which adds extra overhead.
 
