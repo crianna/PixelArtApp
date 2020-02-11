@@ -1,0 +1,15 @@
+{
+  "name": "pixelartapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "file-saver": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A Crivat",
+  "license": "ISC"
+}
