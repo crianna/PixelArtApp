@@ -24,12 +24,10 @@ Name | Reason
 
 ## Installation / Run
 
-Describe how we can check your project locally.
-
 
 The following components must be installed locally:
 
-- [nodejs](https://nodejs.org/en/) v13.2.0
+- [nodejs](https://nodejs.org/en/) v12 or newer
 
 To run the project locally, enter the following in the command line / bash:
 
